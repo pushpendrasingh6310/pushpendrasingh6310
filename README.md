@@ -70,3 +70,4 @@ Detail-oriented **Data Analyst and Python Developer** with hands-on experience b
 [![Location](https://img.shields.io/badge/Location-Bengaluru,_Karnataka-4285F4?style=flat-square&logo=google-maps)](https://maps.google.com)[cite: 12]
 
 > *"Please feel free to reach out if you'd like to discuss data analysis, share insights, or collaborate on projects. I'm always open to new opportunities and connections!"*
+   
